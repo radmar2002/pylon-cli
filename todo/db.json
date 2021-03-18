@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "title": "doo some stuff",
+      "complete": false
+    },
+    {
+      "title": "and another stuff",
+      "complete": false
+    },
+    {
+      "title": "third to do item maybe",
+      "complete": false
+    },
+    {
+      "title": "sfgbsrfb",
+      "complete": false
+    }
+  ]
+}
